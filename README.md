@@ -3,4 +3,4 @@ In this work, the Raman signal is extracted from the CARS spectrum by using a co
 
 Paper title: "Semi-synthetic data generation to fine-tune a convolutional neural network for retrieving Raman signals from CARS spectra"
 
-By Ali Saghi, Rajendhar junjuri, Lasse Lensu, and Erik M. Vartiainen
+By [Ali Saghi](https://scholar.google.co.in/citations?view_op=list_works&hl=en&hl=en&user=GcWhnFcAAAAJ), Rajendhar junjuri, Lasse Lensu, and Erik M. Vartiainen
